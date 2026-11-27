@@ -6,6 +6,7 @@
 *.step
 local.properties
 build/
+requirements-local-full.txt
 
 
 
