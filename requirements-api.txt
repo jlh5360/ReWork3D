@@ -1,0 +1,16 @@
+fastapi[standard]
+uvicorn[standard]
+pydantic-settings
+python-multipart
+httpx
+sqlalchemy[asyncio]
+alembic
+asyncpg
+psycopg[binary]
+fastapi-users[sqlalchemy]
+argon2-cffi
+pyjwt
+redis
+arq
+minio
+pillow

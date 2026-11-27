@@ -1,0 +1,7 @@
+cadquery
+build123d
+trimesh
+scipy
+lib3mf
+pymeshlab
+open3d
