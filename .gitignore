@@ -1,3 +1,15 @@
+# ReWork3D
+.venv/
+.idea/
+*.stl
+*.3mf
+*.step
+local.properties
+build/
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
